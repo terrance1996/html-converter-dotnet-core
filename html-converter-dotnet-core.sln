@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "html-converter-dotnet-core-cs", "html-converter-dotnet-core-cs\html-converter-dotnet-core-cs.csproj", "{5BC3F35A-05B2-41BF-80C0-9900D3C02ACD}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "html-converter-dotnet-core-vb", "html-converter-dotnet-core-vb\html-converter-dotnet-core-vb.vbproj", "{5DC40B15-B308-4790-A2F1-326E23A31270}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{48878AE0-4F91-4038-B162-C7D44343FEE9}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BC3F35A-05B2-41BF-80C0-9900D3C02ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC3F35A-05B2-41BF-80C0-9900D3C02ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC3F35A-05B2-41BF-80C0-9900D3C02ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC3F35A-05B2-41BF-80C0-9900D3C02ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC40B15-B308-4790-A2F1-326E23A31270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC40B15-B308-4790-A2F1-326E23A31270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC40B15-B308-4790-A2F1-326E23A31270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC40B15-B308-4790-A2F1-326E23A31270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE770F5F-4BAC-4096-B892-E9B7B7572748}
+	EndGlobalSection
+EndGlobal
