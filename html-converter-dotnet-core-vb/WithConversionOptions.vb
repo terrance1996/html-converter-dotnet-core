@@ -1,4 +1,4 @@
-﻿Imports DynamicPDF.HtmlConverter
+﻿Imports ceTe.DynamicPDF.HtmlConverter
 Friend Class WithConversionOptions
     Friend Shared Sub Run()
         ' Create a conversion options class

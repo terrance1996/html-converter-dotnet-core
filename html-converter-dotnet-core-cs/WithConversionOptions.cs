@@ -1,4 +1,4 @@
-﻿using DynamicPDF.HtmlConverter;
+﻿using ceTe.DynamicPDF.HtmlConverter;
 using System;
 
 namespace html_converter_dotnet_core_cs

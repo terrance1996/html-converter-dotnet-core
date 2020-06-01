@@ -1,4 +1,4 @@
-﻿Imports DynamicPDF.HtmlConverter
+﻿Imports ceTe.DynamicPDF.HtmlConverter
 Friend Class SimpleConversion
     Friend Shared Sub Run()
         ' Convert HTML to PDF with the default conversion options

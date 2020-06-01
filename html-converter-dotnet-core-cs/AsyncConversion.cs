@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using DynamicPDF.HtmlConverter;
+using ceTe.DynamicPDF.HtmlConverter;
 
 namespace html_converter_dotnet_core_cs
 {

@@ -1,4 +1,4 @@
-﻿Imports DynamicPDF.HtmlConverter
+﻿Imports ceTe.DynamicPDF.HtmlConverter
 Friend Class HtmlConversionUsingString
     Friend Shared Sub Run()
         ' Create a simple HTML string 

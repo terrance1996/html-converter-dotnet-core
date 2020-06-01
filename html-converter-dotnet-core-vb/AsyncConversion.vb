@@ -1,4 +1,4 @@
-﻿Imports DynamicPDF.HtmlConverter
+﻿Imports ceTe.DynamicPDF.HtmlConverter
 
 Friend Class AsyncConversion
     Friend Shared Sub Run()
