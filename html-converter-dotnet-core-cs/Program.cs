@@ -6,9 +6,12 @@ namespace html_converter_dotnet_core_cs
     class Program
     {
         static void Main(string[] args)
-        {
+         {
             SimpleConversion.Run();
             Console.WriteLine("SimpleConversion is completed...");
+
+            ConvertToByteArray.Run();
+            Console.WriteLine("ConvertToByteArray is completed...");
 
             HtmlConversionUsingString.Run();
             Console.WriteLine("HtmlConversionUsingString is completed...");

@@ -5,6 +5,9 @@ Module Program
         SimpleConversion.Run()
         Console.WriteLine("SimpleConversion is completed...")
 
+        ConvertToByteArray.Run()
+        Console.WriteLine("ConvertToByteArray is completed...")
+
         HtmlConversionUsingString.Run()
         Console.WriteLine("HtmlConversionUsingString is completed...")
 
